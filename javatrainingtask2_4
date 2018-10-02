@@ -1,0 +1,23 @@
+//Set window size
+size(450,320);
+
+//Set red rectangle
+stroke(204,0,0);
+fill(204,0,0);
+rect(10,10,100,300);
+
+//Set green circle
+stroke(102,204,0);
+fill(102,204,0);
+ellipse(175,160,100,100);
+
+//Set blue line
+stroke(51,204,255);
+strokeWeight(10);
+line(310,10,310,300);
+
+
+//Set yellow triangle
+stroke(255,255,0);
+fill(255,255,0);
+triangle(400,10,370,310,440,310);
